@@ -22,9 +22,10 @@ export const Hero = () => {
               
               <h1 className="text-4xl lg:text-6xl font-playfair font-bold text-foreground leading-tight">
                 Discover
-                <span className="bg-gradient-primary bg-clip-text text-transparent block">
-                  Luxury Tech
-                </span>
+              <span className="bg-gradient-to-r from-gray-800 via-gray-700 to-gray-900 bg-clip-text text-transparent block">
+                Luxury Tech
+              </span>
+
                 That Inspires
               </h1>
               
