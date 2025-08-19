@@ -41,13 +41,6 @@ export const Hero = () => {
                 <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
               </Button>
               
-              <Button 
-                variant="outline" 
-                size="lg" 
-                className="border-primary/20 text-foreground hover:bg-primary/5"
-              >
-                Watch Demo
-              </Button>
             </div>
 
             {/* Stats */}
